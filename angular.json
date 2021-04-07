@@ -117,6 +117,10 @@
               "devServerTarget": "AngularCardComponent:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

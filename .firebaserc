@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-3-column-preview-card": {
+      "hosting": {
+        "AngularCardComponent": [
+          "angular-3-column-preview-card"
+        ]
+      }
+    }
+  }
+}
