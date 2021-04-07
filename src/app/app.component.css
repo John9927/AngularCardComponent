@@ -28,7 +28,7 @@
   height: 500px;
   width: 33.3%;
   flex-direction: column;
-  margin-top: 15px;
+  margin-top: 18px;
 }
 
 .orange {
@@ -58,7 +58,7 @@
 }
 
 .card__icon {
-  padding: 35px;
+  padding: 40px;
 }
 
 .card__label {
@@ -75,9 +75,9 @@
   font-family: 'Lexend Deca';
   font-size: 15px;
   color: hsla(0, 0%, 100%, 0.75);
-  margin-bottom: 36%;
-  line-height: 1.8;
-  width: 75%;
+  margin-bottom: 34%;
+  line-height: 1.7;
+  width: 80%;
 }
 
 .card__button {
